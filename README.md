@@ -34,7 +34,8 @@ Technologies Used in this project:
  You can learn more about Spotify API here [Create React App documentation](https://developer.spotify.com/documentation/).
 
 ### 2. Material-UI
-To learn React, check out the [Material-UI](https://material-ui.com/components/material-icons/).
+To Know about Material-UI, check out the [Material-UI](https://material-ui.com/components/material-icons/).
 
-### 3.
+### 3. ReactJS 
+To know more about,React JS [Material-UI](https://reactjs.org/).
 
