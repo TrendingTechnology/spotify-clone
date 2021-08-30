@@ -9,7 +9,6 @@
   padding: 20px;
 }
 .footer__left {
-  border: 1px red solid;
   flex: 0.3;
   display: flex;
   align-items: center;
@@ -31,7 +30,6 @@
 }
 .footer__center {
   flex: 0.4;
-  border: 1px green solid;
   padding: 0 100px;
   color: white;
   display: flex;
@@ -57,5 +55,4 @@
   align-items: center;
   justify-content: space-between;
   color: white;
-  border: 1px yellow solid;
 }
