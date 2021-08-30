@@ -14,7 +14,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-
+### Login 
+Login is done by spotify authorization, you have to login with a spotify account in order to see my playlist.
+In this API fetch I fetch my real spotify data. 
 
 
 
