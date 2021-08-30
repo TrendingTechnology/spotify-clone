@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Login 
 Login is done by spotify authorization, you have to login with a spotify account in order to see my playlist.
-In this API fetch I fetch my real spotify data. 
+In this API fetch I fetch my real spotify data. In this fetch I just fetch my name and one playlist its description from Spotify the Player is not funtioned yet .
 
 
 
