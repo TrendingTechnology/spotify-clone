@@ -33,12 +33,12 @@ In this API fetch I fetch my real spotify data. In this fetch I just fetch my na
 ## Learn More
 Technologies Used in this project:
  ### 1. Spotify API
- You can learn more about Spotify API here [Create React App documentation](https://developer.spotify.com/documentation/).
+ You can learn more about Spotify API here [Spotify API](https://developer.spotify.com/documentation/).
 
 ### 2. Material-UI
 To Know about Material-UI, check out the [Material-UI](https://material-ui.com/components/material-icons/).
 
 ### 3. ReactJS 
-To know more about,React JS [Material-UI](https://reactjs.org/).
+To know more about,React JS [REact JS](https://reactjs.org/).
 
 
