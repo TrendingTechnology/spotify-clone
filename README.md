@@ -23,7 +23,8 @@ In this API fetch I fetch my real spotify data. In this fetch I just fetch my na
 
 
 ### `Deployed using Vercel`
-![Spotify](https://user-images.githubusercontent.com/20128950/131375469-27598a90-9edc-41c8-b784-124ca1175466.png)
+
+![spotify](https://user-images.githubusercontent.com/20128950/133791038-5b6a3a9a-b6e4-4498-8cd7-1f0bb54dd6bf.png)
 
 
 
